@@ -10,9 +10,9 @@ Sol: https://github.com/Sriinidhi/AU-Contest-10Days-2024/blob/main/Day-1/Separat
 
 **Day 2** : String Reversal Ops (10/9/24)
 
-PS:
+PS: https://github.com/Sriinidhi/AU-Contest-10Days-2024/blob/main/Day-2/StringReversalOps.md
 
-Sol:
+Sol: https://github.com/Sriinidhi/AU-Contest-10Days-2024/blob/main/Day-2/StringReversalOps.java
 
 **Day 3** : Coin Shift Challenge (11/9/24)
 
