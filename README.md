@@ -22,6 +22,12 @@ Sol: https://github.com/Sriinidhi/AU-Contest-10Days-2024/blob/main/Day-3/CoinShi
 
 **Day 4** : Scholarship Redemption (12/9/24)
 
-PS:
+PS: https://github.com/Sriinidhi/AU-Contest-10Days-2024/blob/main/Day-4/Scholarship-Redemption.md
 
-Sol:
+Sol: https://github.com/Sriinidhi/AU-Contest-10Days-2024/blob/main/Day-4/ScholarshipRedemption.java
+
+**Day 5** : Scholarship Redemption (13/9/24)
+
+PS: 
+
+Sol: 
