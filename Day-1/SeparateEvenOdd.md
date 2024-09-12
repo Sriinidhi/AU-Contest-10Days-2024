@@ -12,33 +12,35 @@ Print the array after segregating the even numbers first and the odd numbers lat
 
 **Examples**
 
-Input1
+**Input1**
 
 3
 
 1 2 3
 
-Output1
+**Output1**
 
 2 1 3
 
 
-Input2
+
+**Input2**
 
 4
 
 4 6 4 8
 
-Output2
-
+**Output2**
 4 6 4 8
 
-Input3
+
+
+**Input3**
 
 6
 
 1 3 7 8 9 5
 
-Output3
+**Output3**
 
 8 1 3 7 9 5
