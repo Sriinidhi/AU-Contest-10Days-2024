@@ -16,9 +16,9 @@ Sol: https://github.com/Sriinidhi/AU-Contest-10Days-2024/blob/main/Day-2/StringR
 
 **Day 3** : Coin Shift Challenge (11/9/24)
 
-PS:
+PS: https://github.com/Sriinidhi/AU-Contest-10Days-2024/blob/main/Day-3/CoinShift.md
 
-Sol:
+Sol: https://github.com/Sriinidhi/AU-Contest-10Days-2024/blob/main/Day-3/CoinShift.java
 
 **Day 4** : Scholarship Redemption (12/9/24)
 
